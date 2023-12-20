@@ -6,7 +6,7 @@ Welcome to the Dog-Cat Classification CNN project! 🐶🐱 This project, develo
 
 1. **Open in Google Colab:**
    Click on the badge to open the project in Google Colab and start classifying your own pet pics! 
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shivayapandey/cat-dog-classification/blob/main/cat_dog_classification.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shivayapandey/cat-dog-classification/blob/main/cats-v-dogs-classification.ipynb)
 
 
 2. **Clone the Repository:**
