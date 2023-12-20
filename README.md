@@ -9,10 +9,7 @@ Welcome to the Dog-Cat Classification CNN project! 🐶🐱 This project, develo
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shivayapandey/cat-dog-classification/blob/main/cats-v-dogs-classification.ipynb)
 
 
-2.**Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/dog-cat-classification.git
-   cd dog-cat-classification
+
 
 ## 🐾 Features
 
