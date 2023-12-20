@@ -24,7 +24,24 @@ The dataset is composed of labeled images of dogs and cats, segmented into train
 
 ## 📈 Model Performance
 
-Visualize the training and validation accuracy and loss with the provided code snippets.
+Monitor the model's training and validation accuracy and loss with these visualizations:
+# Training and Validation Accuracy
+plt.plot(history.history['accuracy'], color='red', label='Train Accuracy')
+plt.plot(history.history['val_accuracy'], color='blue', label='Validation Accuracy')
+plt.xlabel('Epochs')
+plt.ylabel('Accuracy')
+plt.title('Training and Validation Accuracy Over Epochs')
+plt.legend()
+plt.show()
+
+# Training and Validation Loss
+plt.plot(history.history['loss'], color='red', label='Train Loss')
+plt.plot(history.history['val_loss'], color='blue', label='Validation Loss')
+plt.xlabel('Epochs')
+plt.ylabel('Loss')
+plt.title('Training and Validation Loss Over Epochs')
+plt.legend()
+plt.show()
 
 ## 🧐 Evaluation Metrics
 
