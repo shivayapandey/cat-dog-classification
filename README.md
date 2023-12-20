@@ -23,6 +23,12 @@ Welcome to the Dog-Cat Classification CNN project! 🐶🐱 This project, develo
 The dataset used in this project was obtained from Kaggle, a platform for data science and machine learning. It consists of labeled images of delightful dogs and charming cats, segmented into training and testing sets. To access the original dataset and explore more Kaggle competitions and datasets, visit the [Kaggle website](https://www.kaggle.com/).
 
 The dataset used in this project can be found at [Link to Kaggle Dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats).
+## 🐾 Personal Touch: Testing with My Own Pet Photos
+
+To add a special touch to this project, the model was tested using a set of personal pet photos. These images include snapshots of my own dog and cat, contributing a personal element to the evaluation process. 
+
+Feel free to explore the model with your own pet photos or contribute to the project! If you have any questions or feedback, don't hesitate to reach out. 
+
 
 ## 📈 Model Performance
 
