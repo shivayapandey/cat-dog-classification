@@ -6,7 +6,7 @@ Welcome to the Dog-Cat Classification CNN project! 🐶🐱 This project, develo
 
 1. **Open in Google Colab:**
    Click on the badge to open the project in Google Colab and start classifying your own pet pics! 
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shivayapandey/cat-dog-classification/blob/main/cats-v-dogs-classification.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/shivayapandey/b13412f5e386f0d9195889f4f8b4e1c2/cats-v-dogs-classification.ipynb))
 
 
 
@@ -24,24 +24,7 @@ The dataset is composed of labeled images of dogs and cats, segmented into train
 
 ## 📈 Model Performance
 
-Monitor the model's training and validation accuracy and loss with these visualizations:
-# Training and Validation Accuracy
-plt.plot(history.history['accuracy'], color='red', label='Train Accuracy')
-plt.plot(history.history['val_accuracy'], color='blue', label='Validation Accuracy')
-plt.xlabel('Epochs')
-plt.ylabel('Accuracy')
-plt.title('Training and Validation Accuracy Over Epochs')
-plt.legend()
-plt.show()
-
-# Training and Validation Loss
-plt.plot(history.history['loss'], color='red', label='Train Loss')
-plt.plot(history.history['val_loss'], color='blue', label='Validation Loss')
-plt.xlabel('Epochs')
-plt.ylabel('Loss')
-plt.title('Training and Validation Loss Over Epochs')
-plt.legend()
-plt.show()
+Visualize the training and validation accuracy and loss with the provided code snippets.
 
 ## 🧐 Evaluation Metrics
 
