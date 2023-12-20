@@ -1,6 +1,6 @@
  🐾 Dog-Cat Classification CNN Project 🐾
 
-Welcome to the Dog-Cat Classification CNN project! 🐶🐱 This project, developed on Google Colab, is designed to classify images of adorable dogs and cute cats using Convolutional Neural Networks (CNNs). During testing, the model achieved an accuracy rate of 80%, and it was validated with a set of personal pet photos.
+Welcome to the Dog-Cat Classification CNN project! This project, developed on Google Colab, is designed to classify images of adorable dogs and cute cats using Convolutional Neural Networks (CNNs). During testing, the model achieved an accuracy rate of 80%, and it was validated with a set of personal pet photos.
 
 ## 🚀 Quick Start
 
