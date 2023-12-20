@@ -35,6 +35,15 @@ Consider additional evaluation metrics such as precision, recall, and F1 score, 
 
 ## 🌟 Next Steps
 
+- **Experiment with Different Approaches:** Explore different architectures, hyperparameters, and data augmentation strategies for model optimization.
+- **Monitor for Overfitting:** Keep an eye on signs of overfitting and apply regularization techniques if necessary.
+- **Transfer Learning Exploration:** Investigate transfer learning with pre-trained models to enhance feature extraction capabilities.
+
+Feel free to clone and explore the code. Your feedback is appreciated. Happy classifying with your own pet photos! 🐾✨
+
+
+## 🌟 Next Steps
+
 - Experiment with different architectures, hyperparameters, and data augmentation strategies for model optimization.
 - Monitor for signs of overfitting and apply regularization techniques if necessary.
 - Explore transfer learning with pre-trained models to enhance feature extraction capabilities.
