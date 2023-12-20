@@ -6,7 +6,7 @@ Welcome to the Dog-Cat Classification CNN project! 🐶🐱 This project, develo
 
 1. **Open in Google Colab:**
    Click on the badge to open the project in Google Colab and start classifying your own pet pics! 
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/shivayapandey/b13412f5e386f0d9195889f4f8b4e1c2/cats-v-dogs-classification.ipynb))
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/shivayapandey/b13412f5e386f0d9195889f4f8b4e1c2/cats-v-dogs-classification.ipynb)
 
 
 
@@ -20,15 +20,15 @@ Welcome to the Dog-Cat Classification CNN project! 🐶🐱 This project, develo
 
 ## 📷 Dataset
 
-The dataset is composed of labeled images of dogs and cats, segmented into training and testing sets. The model achieved an 80% accuracy rate and underwent validation using personal pet photos.
+The dataset used in this project was obtained from Kaggle, a platform for data science and machine learning. It consists of labeled images of delightful dogs and charming cats, segmented into training and testing sets. To access the original dataset and explore more Kaggle competitions and datasets, visit the [Kaggle website](https://www.kaggle.com/).
+
+The dataset used in this project can be found at [Link to Kaggle Dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats).
 
 ## 📈 Model Performance
 
 Visualize the training and validation accuracy and loss with the provided code snippets.
 
-## 🧐 Evaluation Metrics
 
-Consider additional evaluation metrics such as precision, recall, and F1 score, especially if there's class imbalance.
 
 ## 🌟 Next Steps
 
@@ -39,10 +39,4 @@ Consider additional evaluation metrics such as precision, recall, and F1 score, 
 Feel free to clone and explore the code. Your feedback is appreciated. Happy classifying with your own pet photos! 🐾✨
 
 
-## 🌟 Next Steps
 
-- Experiment with different architectures, hyperparameters, and data augmentation strategies for model optimization.
-- Monitor for signs of overfitting and apply regularization techniques if necessary.
-- Explore transfer learning with pre-trained models to enhance feature extraction capabilities.
-
-Feel free to clone and explore the code. Your feedback is appreciated. Happy classifying with your own pet photos! 🐾✨
